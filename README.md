@@ -38,10 +38,20 @@ Saya juga sedang aktif mengikuti berbagai course online dan pelatihan untuk meng
 
 ---
 
-### 📄 Sertifikat yang Saya Miliki
-- Cisco: Introduction to Cybersecurity
-- SkillUp: Cybersecurity Basics
-- Coursera (ongoing): Python for Everybody
+## 📄 Sertifikat Saya
+
+### Simplilearn/Skillup: ChatGPT for Cybersecurity
+
+<img src="https://github.com/raden-diazka/raden-diazka/blob/main/certificates/Simplilearn-ChatGPT-for-Cybersecurity.jpg?raw=true" alt="Simplilearn/Skillup Certificate" width="500"/>
+
+🔗 [Download Sertifikat (PDF)](https://github.com/raden-diazka/raden-diazka/blob/main/certificates/Simplilearn-ChatGPT-for-Cybersecurity.pdf)
+
+### HP-LIFE: Introduction to Cybersecurity Awareness
+
+<img src="https://github.com/raden-diazka/raden-diazka/blob/main/certificates/HP-LIFE-Introduction-to-Cybersecurity-Awareness.jpg?raw=true" alt="HP-LIFE-Introduction-to-Cybersecurity-Awareness" width="500"/>
+
+🔗 [Download Sertifikat (PDF)](https://github.com/raden-diazka/raden-diazka/blob/main/certificates/HP-LIFE-Introduction-to-Cybersecurity-Awareness.pdf)
+
 
 ---
 

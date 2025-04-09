@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Halo 👋, Saya Raden Diazka Adhitya Budiman</h1>
+<p align="center">
+  💻 Pelajar SMK TJKT | 🔐 Calon Cybersecurity Specialist | 🤖 AI Enthusiast <br>
+  📍 Bandung, Indonesia
+</p>
 
-<!--
-**raden-diazka/raden-diazka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔧 Tentang Saya
+Saya adalah siswa SMK jurusan Teknik Jaringan Komputer dan Telekomunikasi (TJKT) yang sedang aktif belajar dan mendalami dunia **Cybersecurity**, **Artificial Intelligence**, serta **Network Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sebagai calon **Network Engineer**, saya telah mempelajari berbagai hal seperti:
+- Perakitan dan perawatan **hardware PC**
+- Instalasi dan manajemen jaringan dengan **kabel LAN & Fiber Optic**
+- Konfigurasi **router & switch** menggunakan Cisco Packet Tracer
+- Pengelolaan dasar **server** dan layanan jaringan
+- Pengenalan keamanan jaringan melalui **Cisco Networking Academy (NetAcad)**
+
+Saya juga sedang aktif mengikuti berbagai course online dan pelatihan untuk mengembangkan kemampuan saya agar siap menghadapi tantangan teknologi di masa depan.
+
+---
+
+### 🎯 Minat Utama
+- 🔐 **Cybersecurity** (Network Security, Ethical Hacking)
+- 🤖 **Artificial Intelligence** (Machine Learning dasar, NLP)
+- 🌐 **Network Engineering & Security Enthusiast**
+
+---
+
+### 🧰 Teknologi yang Saya Gunakan
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-🖥️-black" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-blue" />
+  <img src="https://img.shields.io/badge/Python-🐍-yellow" />
+  <img src="https://img.shields.io/badge/GitHub-grey" />
+  <img src="https://img.shields.io/badge/VS%20Code-blue" />
+</p>
+
+---
+
+### 📄 Sertifikat yang Saya Miliki
+- Cisco: Introduction to Cybersecurity
+- SkillUp: Cybersecurity Basics
+- Coursera (ongoing): Python for Everybody
+
+---
+
+### 🌐 Temukan Saya di Sini
+- LinkedIn: [[linkedin.com/in/diazka-adhitya-tjkt/](https://www.linkedin.com/in/diazka-adhitya-tjkt/)]
+- Blog (Portofolio): [[diazkaa.blogspot.com](https://diazkaa.blogspot.com/)]
+- Email: diazka.adhitya.budiman@gmail.com
+
+---
+
+### ⚡ Fun Fact
+Saya percaya bahwa masa depan bukan tentang siapa yang paling pintar, tapi siapa yang **paling siap belajar dan beradaptasi** 💪

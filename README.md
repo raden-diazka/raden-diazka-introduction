@@ -44,7 +44,7 @@ Saya juga sedang aktif mengikuti berbagai course online dan pelatihan untuk meng
 
 <img src="https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/Cisco-Introduction-to-Cybersecurity.jpg?raw=true" alt="Cisco-Introduction-to-Cybersecurity" width="500"/>
 
-🔗 [Download Sertifikat (PDF)](https://github.com/raden-diazka/raden-diazka/blob/main/certificates/Simplilearn-ChatGPT-for-Cybersecurity.pdf)
+🔗 [Download Sertifikat (PDF)](https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/Cisco-Introduction-to-Cybersecurity.pdf)
 
 ### Simplilearn/Skillup: ChatGPT for Cybersecurity
 

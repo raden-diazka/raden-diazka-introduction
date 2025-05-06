@@ -46,12 +46,19 @@ Saya juga sedang aktif mengikuti berbagai course online dan pelatihan untuk meng
 
 🔗 [Download Sertifikat (PDF)](https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/Cisco-Introduction-to-Cybersecurity.pdf)
 
-### Simplilearn/Skillup: ChatGPT for Cybersecurity
+### Cisco Networking Academy: Cisco Computer Hardware Basics
 
-<img src="https://github.com/raden-diazka/raden-diazka/blob/main/certificates/Simplilearn-ChatGPT-for-Cybersecurity.jpg?raw=true"
-alt="Simplilearn/Skillup Certificate" width="500"/>
+<img src="https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/Cisco-Computer-Hardware-Basics.jpg?raw=true"
+alt="Cisco-Computer-Hardware-Basics" width="500"/>
 
-🔗 [Download Sertifikat (PDF)](https://github.com/raden-diazka/raden-diazka/blob/main/certificates/Simplilearn-ChatGPT-for-Cybersecurity.pdf)
+🔗 [Download Sertifikat (PDF)](https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/Cisco-Computer-Hardware-Basics.pdf)
+
+### IBM: Cybersecurity Fundamentals
+
+<img src="https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/IBM-Cybersecurity-Fundamentals.jpg?raw=true"
+alt="IBM-Cybersecurity-Fundamentals" width="500"/>
+
+🔗 [Download Sertifikat (PDF)](https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/IBM-Cybersecurity-Fundamentals.pdf)
 
 ### HP-LIFE: Introduction to Cybersecurity Awareness
 

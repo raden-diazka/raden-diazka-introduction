@@ -44,7 +44,12 @@ Saya juga sedang aktif mengikuti berbagai course online dan pelatihan untuk meng
 
 <img src="https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/GUINNESS-WORLD-RECORDS%E2%84%A2-Microsoft-AI-Skills-Fest-Festival-participation.png? raw=true" alt="GUINNESS-WORLD-RECORDS™-Microsoft-AI-Skills-Fest-Festival-participation" width="250"/>
 
-### Microsoft AI Skills Fest | Festival participation
+### Google Cloud | Introduction in the World of AI
+
+<img src="https://https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/Google-Cloud-Introductio-to-Security-in-the-World-of-AI.png? raw=true" alt="Google-Cloud-Introductio-to-Security-in-the-World-of-AI" width="250"/>
+
+
+### Microsoft: AI Skills Fest | Festival participation
 
 <img src="https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/Microsoft-AI-Skills-Fest-Festival-participation.jpg? raw=true" alt="Microsoft-AI-Skills-Fest-Festival-participation" width="500"/>
 

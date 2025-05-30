@@ -46,7 +46,6 @@ Saya juga sedang aktif mengikuti berbagai course online dan pelatihan untuk meng
 
 ### Microsoft AI Skills Fest | Festival participation
 
-https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/Microsoft-AI-Skills-Fest-Festival-participation.jpg
 <img src="https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/Microsoft-AI-Skills-Fest-Festival-participation.jpg? raw=true" alt="Microsoft-AI-Skills-Fest-Festival-participation" width="500"/>
 
 🔗 [Download Sertifikat (PDF)](https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/Microsoft-AI-Skills-Fest-Festival-participation.pdf)

@@ -42,7 +42,7 @@ Saya juga sedang aktif mengikuti berbagai course online dan pelatihan untuk meng
 
 ### GUINNESS WORLD RECORDS™ | Microsoft AI Skills Fest | Festival participation
 
-<img src="https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/GUINNESS-WORLD-RECORDS%E2%84%A2-Microsoft-AI-Skills-Fest-Festival-participation.png? raw=true" alt="GUINNESS-WORLD-RECORDS™-Microsoft-AI-Skills-Fest-Festival-participation" width="100"/>
+<img src="https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/GUINNESS-WORLD-RECORDS%E2%84%A2-Microsoft-AI-Skills-Fest-Festival-participation.png? raw=true" alt="GUINNESS-WORLD-RECORDS™-Microsoft-AI-Skills-Fest-Festival-participation" width="250"/>
 
 ### Microsoft AI Skills Fest | Festival participation
 

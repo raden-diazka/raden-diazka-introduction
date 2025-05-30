@@ -40,6 +40,16 @@ Saya juga sedang aktif mengikuti berbagai course online dan pelatihan untuk meng
 
 ## 📄 Sertifikat Saya
 
+### GUINNESS WORLD RECORDS™ | Microsoft AI Skills Fest | Festival participation
+
+(https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/GUINNESS%20WORLD%20RECORDS%E2%84%A2-Microsoft%20AI%20Skills%20Fest%20-Festival%20participation.png?raw=true)
+
+### Microsoft AI Skills Fest | Festival participation
+
+(https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/Microsoft%20AI%20Skills%20Fest%20-Festival%20participation.jpg?raw=true)
+
+🔗 [Download Sertifikat (PDF)] (https://github.com/raden-diazka/raden-diazka-introduction/blob/df2fe378246f5bd05c84230ff2af33e968d2068d/certificates/Microsoft%20AI%20Skills%20Fest%20-Festival%20participation.pdf)
+
 ### Cisco Networking Academy: Introduction to Cybersecurity
 
 <img src="https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/Cisco-Introduction-to-Cybersecurity.jpg?raw=true" alt="Cisco-Introduction-to-Cybersecurity" width="500"/>

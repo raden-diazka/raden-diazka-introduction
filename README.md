@@ -55,6 +55,16 @@ Saya juga sedang aktif mengikuti berbagai course online dan pelatihan untuk meng
 
 🔗 [Download Sertifikat (PDF)](https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/Microsoft-AI-Skills-Fest-Festival-participation.pdf)
 
+### Cisco Networking Academy: Networking Bacics
+
+<img src="https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/Cisco-Networking-BasicsUpdate20250612-25.jpg? raw=true" alt="Cisco-Networking-BasicsUpdate20250612-25" width="500"/>
+
+🔗 [Download Sertifikat (PDF)](https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/Cisco-Networking-BasicsUpdate20250612-25-n0e6il.pdf)
+
+<img src="https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/SMKN-13-BANDUNG-Cisco-Networking-Basics.jpg? raw=true" alt="SMKN-13-BANDUNG-Cisco-Networking-Basics" width="500"/>
+
+🔗 [Download Sertifikat (PDF)](https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/SMKN-13-BANDUNG-Cisco-Networking-Basics.pdf)
+
 ### Cisco Networking Academy: Introduction to Cybersecurity
 
 <img src="https://github.com/raden-diazka/raden-diazka-introduction/blob/main/certificates/Cisco-Introduction-to-Cybersecurity.jpg?raw=true" alt="Cisco-Introduction-to-Cybersecurity" width="500"/>
